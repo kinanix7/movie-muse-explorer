@@ -2,7 +2,7 @@
 import { Movie, MovieDetails, SearchResponse } from './types';
 
 // I'm using TMDB API for this project
-const API_KEY = 'ca4d83db6bd2f0e4c2e3df9562fadc81'; // This is a public API key for TMDB
+const API_KEY = '60ed65ad00f99e8898315297aece95e5'; // Updated API key for TMDB
 const BASE_URL = 'https://api.themoviedb.org/3';
 const IMG_BASE_URL = 'https://image.tmdb.org/t/p';
 
